@@ -1,0 +1,4 @@
+flask
+PyQRCode
+PyPNG
+gunicorn
